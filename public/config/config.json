@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x45f296028927da703175246d2f77cf650a77ba96",
+  "SCAN_LINK": "https://etherscan.io/address/0x45f296028927da703175246d2f77cf650a77ba96",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH and .02 ETH after the first 1000 mints",
+    "ID": 1
+  },
+  "NFT_NAME": "The Invisible Punks NFT",
+  "SYMBOL": "Invisible Punk",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/invisible-punks-official",
+  "SHOW_BACKGROUND": true
+}
